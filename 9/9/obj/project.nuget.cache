@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RIh3RUwUVHH+ervVQNRFCmZQRce1Pto1ILvR7oCG2FhZdTKrgMfTeJHLJXpbcT37Y2dwpMkrF2zot80GuNCelQ==",
+  "success": true,
+  "projectFilePath": "D:\\Prolog\\Prolog\\9\\9\\9.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
